@@ -3,6 +3,7 @@
 - 😄 My name is Achmad Solehuddin 
 - 🔭 I’m a react js frontend developer
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/achmad-solehuddin/)
+-🌱 I’m currently learning NextJS and TypeScript
 
 <p align="left">
 <a href="https://github.com/achso13">
