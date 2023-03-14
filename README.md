@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 My name is Achmad Solehuddin 
-- 🔭 I’m a react js frontend developer
+- 🔭 I’m a ReactJS frontend developer
 - 🌱 I’m currently learning NextJS and TypeScript
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/achmad-solehuddin/)
 
